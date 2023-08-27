@@ -4,3 +4,4 @@ root@1bccf05cb7cf:/alx-pre_course/0x01-git/bash# cat > school
 #!/bin/bash
 echo "School"
 root@1bccf05cb7cf:/alx-pre_course/0x01-git/bash# git add .
+
